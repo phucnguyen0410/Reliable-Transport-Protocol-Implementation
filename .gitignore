@@ -1,0 +1,25 @@
+RTP-base/output.txt
+RTP-opt/output.txt
+
+pcap/
+log/
+*.p4i
+*.db
+*.pyc
+*.log
+*.pcap
+*.trace
+*.swp
+*.swm
+*.swn
+*.swo
+
+.idea
+.DS_Store
+.vscode/
+
+# Python virtual environment
+.venv/
+
+# Backup files
+*.bak
